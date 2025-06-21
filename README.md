@@ -1,8 +1,6 @@
-# Mech Interp - From a Hacker's POV
+# Mechanistic Interpretability in the Presence of Architectural Obfuscastion
 
-This repository contains the code used in the production of the paper:
-
-**Mech Interp - From a Hacker's POV**, published on [arXiv](https://arxiv.org/).
+This repository contains the code used in the production of the paper published on [arXiv](https://arxiv.org/).
 
 The codebase includes scripts, utilities, and notebooks for mechanistic interpretability experiments and analyses as described in the paper.
 

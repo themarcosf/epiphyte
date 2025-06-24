@@ -1,6 +1,6 @@
 # Mechanistic Interpretability in the Presence of Architectural Obfuscation
 
-This repository contains the code used in the production of the paper published on [arXiv](https://arxiv.org/).
+This repository contains the code used in the production of the paper published on [https://arxiv.org/](https://arxiv.org/abs/2506.18053).
 
 The codebase includes scripts, utilities, and notebooks for mechanistic interpretability experiments and analyses as described in the paper.
 

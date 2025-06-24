@@ -1,4 +1,4 @@
-# Mechanistic Interpretability in the Presence of Architectural Obfuscastion
+# Mechanistic Interpretability in the Presence of Architectural Obfuscation
 
 This repository contains the code used in the production of the paper published on [arXiv](https://arxiv.org/).
 
